@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1080591013722-vikrt7ehvsjnq3u7dar48p16j38rs2g9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1080591013722-vikrt7ehvsjnq3u7dar48p16j38rs2g9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA76iHmv9EKj9bJQESZCE_2rZCx-2S64xM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1080591013722</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.rexios.example</string>
+	<key>PROJECT_ID</key>
+	<string>ihatefypp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ihatefypp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1080591013722:ios:07195c27ee49a49c8a4563</string>
+</dict>
+</plist>

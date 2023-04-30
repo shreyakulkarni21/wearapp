@@ -1,0 +1,31 @@
+name: workout_example
+description: Demonstrates how to use the workout plugin.
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  workout: ^0.6.1
+    # When depending on this package from a real application you should use:
+    #   workout: ^x.y.z
+    # See https://dart.dev/tools/pub/dependencies#version-constraints
+    # The example app is bundled with the plugin so we use a path dependency on
+    # the parent directory to use the current plugin's version.
+  
+
+  wear: ^1.1.0
+  firebase_core: ^2.10.0
+  firebase_storage: ^11.1.1
+  firebase_database: ^10.1.1
+
+dependency_overrides:
+  wear:
+    git:
+      url: https://github.com/Rexios80/flutter_wear_plugin.git
+      ref: c5ca3ce5faf134602e93c1792f1fb0f8a8919465
+
+dev_dependencies:
+  rexios_lints: ^5.0.0
